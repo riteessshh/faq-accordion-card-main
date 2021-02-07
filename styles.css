@@ -30,13 +30,13 @@ h2{
   position: absolute;
   z-index: 1;
   width: 600px;
-  right: 490px;
+  right: 55.4%;
   /* top: 30px; */
 }
 .woman-img{
   position: absolute;
   z-index: 2;
-  right: 490px;
+  right: 55.4%;
   top: 110px;
 }
 .box-img{
